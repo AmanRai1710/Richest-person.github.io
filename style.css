@@ -1,0 +1,64 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+
+
+#bezos{
+   
+    font-size-adjust: bold;
+    font-style: normal;
+    /* padding-left: 7%; */
+    margin: auto;
+}
+#page{
+    padding-bottom: 2%;
+    color: red;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+   background-color: black;
+    height: 40px;
+    line-height: 40px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 18px;
+}
+li{
+    float: left;
+    border-right: 2px solid blue ;
+}
+a{
+    display: block;
+    padding: 0px 120px;
+    color:white;
+    text-decoration: none;
+}
+a:hover,.active a{
+    background-color: blue;
+}
+h3{
+    padding-left: 10%;
+    color: green;
+    
+}
+article{
+    
+    border: tomato;
+    border-style: solid;
+    padding-right: 30%;
+    margin-right: 10%;
+}
+
+#table{
+    
+    border: "3";
+}
+
+
+h6{
+   
+    font-size: 30px;
+
+}
